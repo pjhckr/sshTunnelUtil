@@ -113,7 +113,7 @@ public class SshTunnel {
      * This method will check if that tunnel is still active or not and return true/false accordingly.
      * @return true/false
      */
-    public boolean isTunnelConnected() {
+    public boolean isTunnelConnected(){
         Socket socket;
         try {
             socket = new Socket("127.0.0.1", this.localPort);
