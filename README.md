@@ -1,1 +1,3 @@
 # sshTunnelUtil
+
+It is not to hard to figure out how this utility works but detailed doumentation is in progress...
